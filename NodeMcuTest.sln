@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo01", "demo01\demo01.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ESP8266WiFiAP_demo1", "ESP8266WiFiAP_demo1\ESP8266WiFiAP_demo1.vcxproj", "{40BE01E5-9BDD-4506-9837-D8B034A8A19A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ESP8266WiFiSTA_demo", "ESP8266WiFiSTA_demo\ESP8266WiFiSTA_demo.vcxproj", "{21F905A6-958A-4EE1-A210-EA5E94AD8A76}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ESP8266WiFiScan_demo1", "ESP8266WiFiScan_demo1\ESP8266WiFiScan_demo1.vcxproj", "{CC3DDA5F-A94B-428C-B958-4421D49C5B45}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ESP8266WiFiScan_demo2", "ESP8266WiFiScan_demo2\ESP8266WiFiScan_demo2.vcxproj", "{D3D996FC-4D0A-4F48-8D8B-14124F6FFD8C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ESP8266WiFiScan_demo3", "ESP8266WiFiScan_demo3\ESP8266WiFiScan_demo3.vcxproj", "{BE441A37-E139-43A1-A899-FD4B8B729BB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{40BE01E5-9BDD-4506-9837-D8B034A8A19A}.Debug|x86.ActiveCfg = Debug|Win32
+		{40BE01E5-9BDD-4506-9837-D8B034A8A19A}.Debug|x86.Build.0 = Debug|Win32
+		{40BE01E5-9BDD-4506-9837-D8B034A8A19A}.Release|x86.ActiveCfg = Release|Win32
+		{40BE01E5-9BDD-4506-9837-D8B034A8A19A}.Release|x86.Build.0 = Release|Win32
+		{21F905A6-958A-4EE1-A210-EA5E94AD8A76}.Debug|x86.ActiveCfg = Debug|Win32
+		{21F905A6-958A-4EE1-A210-EA5E94AD8A76}.Debug|x86.Build.0 = Debug|Win32
+		{21F905A6-958A-4EE1-A210-EA5E94AD8A76}.Release|x86.ActiveCfg = Release|Win32
+		{21F905A6-958A-4EE1-A210-EA5E94AD8A76}.Release|x86.Build.0 = Release|Win32
+		{CC3DDA5F-A94B-428C-B958-4421D49C5B45}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC3DDA5F-A94B-428C-B958-4421D49C5B45}.Debug|x86.Build.0 = Debug|Win32
+		{CC3DDA5F-A94B-428C-B958-4421D49C5B45}.Release|x86.ActiveCfg = Release|Win32
+		{CC3DDA5F-A94B-428C-B958-4421D49C5B45}.Release|x86.Build.0 = Release|Win32
+		{D3D996FC-4D0A-4F48-8D8B-14124F6FFD8C}.Debug|x86.ActiveCfg = Debug|Win32
+		{D3D996FC-4D0A-4F48-8D8B-14124F6FFD8C}.Debug|x86.Build.0 = Debug|Win32
+		{D3D996FC-4D0A-4F48-8D8B-14124F6FFD8C}.Release|x86.ActiveCfg = Release|Win32
+		{D3D996FC-4D0A-4F48-8D8B-14124F6FFD8C}.Release|x86.Build.0 = Release|Win32
+		{BE441A37-E139-43A1-A899-FD4B8B729BB7}.Debug|x86.ActiveCfg = Debug|Win32
+		{BE441A37-E139-43A1-A899-FD4B8B729BB7}.Debug|x86.Build.0 = Debug|Win32
+		{BE441A37-E139-43A1-A899-FD4B8B729BB7}.Release|x86.ActiveCfg = Release|Win32
+		{BE441A37-E139-43A1-A899-FD4B8B729BB7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54F23B72-FF97-4926-AD5A-EA85F38209F7}
+	EndGlobalSection
+EndGlobal
